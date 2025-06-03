@@ -1,7 +1,7 @@
 - Hi, I’m Gustavo Camacho
 - I'm currently a student of software engineering and computer science 
 - I’m interested in A.I, Data Science, Systems Architecture, Software Development and robotic
-- I already know python, and i currently learn Java and javascrip
+- I already know Python, Django, Flask, JavaScript, React and Nextjs
 - I open to work in any class of project as a junior engineer or as intern 
 - My email -> gusttav28@gmail.com
 
